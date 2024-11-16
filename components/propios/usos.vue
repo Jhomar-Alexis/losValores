@@ -70,7 +70,7 @@
         <div class="bg-white p-2 rounded-lg">
           <p class="text-black font-[900] text-center">Solidaridad:</p>
           <p class="text-black font-semibold text-around">
-            Los deben ser solidarios demostrando su apoyo a algún compañero si
+            Los alumnos deben ser solidarios demostrando su apoyo a algún compañero si
             esta pasando por un momento dificil o en proyectos grupales,
             compartiendo sus cosas y siendo amigables. Ya que hay que ser bueno
             con los demas para que lo sean contigo.
