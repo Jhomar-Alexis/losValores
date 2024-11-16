@@ -1,27 +1,27 @@
 <template>
+
   <div class="flex gap-10 flex-col items-center py-10 height:fit-content bg-teal-800">
     <h1 class="text-white text-2xl md:text-4xl font-[900] text-center">
       Valores en la Familia
     </h1>
+
     <div class="flex items-center justify-center w-full">
-      <div class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 gap-4 ">
-        <!-- Caja de texto e imagen -->
+      <div class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 ">
         <div
-          class="flex bg-teal-800 flex-col-reverse gap-6 xl:flex-row items-center p-4 rounded-lg shadow-[0_0_12px_0] shadow-black w-[90%] md:w-1/2 lg:w-1/2 xl:w-1/2 lg:p-8 xl:p-10">
-          <!-- Caja de imagen -->
-          <!-- Contenido -->
+          class="flex bg-teal-800 flex-col-reverse gap-6 xl:flex-row items-center pb-4 pt-4 rounded-lg shadow-[0_0_12px_0] shadow-black w-[80%] md:w-1/2 lg:w-1/2 xl:w-1/2 lg:p-8 xl:p-10 max-w-md">
+
           <UCarousel ref="carouselRef" v-slot="{ item }" :items="items" :ui="{ item: 'basis-full' }"
-            class="overflow-hidden relative bg-teal-800" indicators>
+            class="overflow-hidden relative w-[80%] bg-teal-800" indicators>
             <div class="flex px-4 flex-col-reverse xl:flex-row justify-center">
               <div class="w-full xl:w-1/2 lg:ml-4 lg:order-2 max-w-md">
                 <img :src="item.href" class="w-full h-full object-cover rounded-lg border-4 border-white" />
               </div>
               <div class="w-full xl:w-1/2 lg:order-1">
-                <!-- Título -->
+           
                 <h2 class="text-white text-xl font-bold mb-2">
                   {{ item.titulo }}
                 </h2>
-                <!-- Contenido -->
+     
                 <p class="text-white lg:text-xl">
                   {{ item.contenido }}
                 </p>
@@ -31,6 +31,7 @@
         </div>
       </div>
     </div>
+
 
     <div class="flex flex-wrap justify-center">
       <div class="w-60 lg:w-80 mb-4 bg-white p-4 rounded-lg shadow-[0_0_12px_0] shadow-black mx-4">
@@ -57,7 +58,8 @@
           <p class="text-black font-semibold text-around">
             El valor fundamental de una familia debe ser el amor y demostrar cuánto aprecian al otro demostrando su
             afecto con
-            muestras como un abrazo, una palabra de apoyo, entre otras. Respetando, cuidando y apoyando en todo momento.
+            muestras como un abrazo, una palabra de apoyo, entre otras. Respetando, cuidando y apoyando en todo
+            momento.
           </p>
         </div>
       </div>

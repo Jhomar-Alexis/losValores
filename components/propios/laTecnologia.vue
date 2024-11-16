@@ -8,7 +8,7 @@
                 class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 gap-4 ">
                 <!-- Caja de texto e imagen -->
                 <div
-                    class="flex bg-teal-800 flex-col-reverse gap-6 xl:flex-row items-center p-4 rounded-lg shadow-[0_0_12px_0] shadow-black w-[90%] md:w-1/2 lg:w-1/2 xl:w-1/2 lg:p-8 xl:p-10">
+                    class="flex bg-teal-800 flex-col-reverse gap-6 xl:flex-row items-center p-4 rounded-lg shadow-[0_0_12px_0] shadow-black w-full md:w-1/2 lg:w-1/2 xl:w-1/2 lg:p-8 xl:p-10">
                     <!-- Caja de imagen -->
                     <div class="flex px-4 flex-col-reverse xl:flex-row justify-center">
                         <div class="w-full xl:w-1/2 lg:ml-4 lg:order-2 max-w-md">
