@@ -2,9 +2,9 @@
     <!-- <UCarousel ref="carouselRef" v-slot="{ item }" :items="items" :ui="{ item: 'basis-full' }"
         class="overflow-hidden relative bg-gray-200" indicators> -->
     <div class="relative h-[100vh] w-full flex justify-center items-center">
-        <img src="/images/13.jpg" class="h-full w-full mx-auto rounded-lg" draggable="false">
+        <img src="/images/14.jpg" class="h-full w-full mx-auto rounded-lg" draggable="false">
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 
-          text-black text-lg flex flex-col items-center justify-center ">
+          text-teal-400 text-lg flex flex-col items-center justify-center ">
             <div class="text-center">
                 <span class="lg:text-[90px] md:text-[60px] text-[36px]" style="font-weight: 900;">PROMOVIENDO</span>
             </div>
