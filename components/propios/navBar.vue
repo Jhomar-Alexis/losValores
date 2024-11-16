@@ -6,7 +6,7 @@
         <div class="flex items-center gap-1 pb-6">
 
             <!-- boton de hamburguesa -->
-            <div class="sm:hidden">
+            <div class="sm:hidden pt-6">
                 <Button size="icon" ref="btn" variant="outline" class="rounded-full w-10 h-10 p-1"
                     @click="toggleSidebar">
                     <Icon name="i-carbon-menu" class="w-9 h-9" />
