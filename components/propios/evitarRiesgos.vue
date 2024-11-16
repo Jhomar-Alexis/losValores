@@ -6,10 +6,10 @@
     <div class="flex items-center justify-center w-full">
       <div class="flex flex-col-reverse lg:flex-row-reverse items-center justify-center pb-4 lg:pb-0 lg:p-4 ">
         <div
-          class="flex items-center justify-center bg-teal-800 flex-col-reverse gap-6 xl:flex-row pb-4 pt-4 rounded-lg shadow-[0_0_12px_0] shadow-black w-[80%] md:w-1/2 lg:w-1/2 xl:w-1/2 lg:p-8 xl:p-10">
+          class="flex items-center justify-center bg-teal-800 flex-col-reverse gap-6 xl:flex-row pb-4 pt-4 rounded-lg shadow-[0_0_12px_0] shadow-black w-[90%] md:w-1/2 lg:w-1/2 xl:w-1/2 lg:p-8 xl:p-10">
 
           <UCarousel ref="carouselRef" v-slot="{ item }" :items="items" :ui="{ item: 'basis-full' }"
-            class="overflow-hidden relative w-[80%] bg-teal-800" indicators>
+            class="overflow-hidden relative w-full bg-teal-800" indicators>
             <div class="flex px-4 flex-col-reverse xl:flex-row justify-center">
               <div class="w-full xl:w-1/2 lg:ml-4 lg:order-2 max-w-md">
                 <img :src="item.href" class="w-full h-full object-cover rounded-lg border-4 border-white" />
