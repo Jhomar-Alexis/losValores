@@ -16,11 +16,11 @@
               <div class="w-full xl:w-1/2 lg:ml-4 lg:order-2 max-w-md">
                 <img :src="item.href" class="w-full h-full object-cover rounded-lg border-4 border-white" />
               </div>
-              <div class="w-full xl:w-1/2 lg:order-1">
-
+              <div class="w-full xl:w-1/2 lg:order-1 flex flex-col items-center justify-center">
                 <h2 class="text-white text-xl font-bold mb-2">
                   {{ item.titulo }}
                 </h2>
+
 
                 <p class="text-white lg:text-xl">
                   {{ item.contenido }}
