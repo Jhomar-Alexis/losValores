@@ -32,7 +32,7 @@
     <div class="flex flex-wrap justify-center">
       <div class="w-60 lg:w-80 mb-4 bg-teal-800 p-4 rounded-lg shadow-[0_0_12px_0] shadow-black mx-4">
         <div class="pb-4">
-          <img src="~/public/images/12.jpg" alt="Tecnología"
+          <img src="~/public/images/7.jpg" alt="Tecnología"
             class="w-full object-cover border-4 border-white rounded-lg" />
         </div>
         <div class="bg-white p-2 rounded-lg">
@@ -45,7 +45,7 @@
       </div>
       <div class="w-60 lg:w-80 mb-4 bg-white p-4 rounded-lg shadow-[0_0_12px_0] shadow-black mx-4">
         <div class="pb-4">
-          <img src="~/public/images/13.jpg" alt="Tecnología"
+          <img src="~/public/images/8.jpg" alt="Tecnología"
             class="w-full object-cover border-4 border-teal-800 rounded-lg" />
         </div>
         <div class="bg-teal-800 p-2 rounded-lg">
@@ -58,7 +58,7 @@
       </div>
       <div class="w-60 lg:w-80 mb-4 bg-teal-800 p-4 rounded-lg shadow-[0_0_12px_0] shadow-black mx-4">
         <div class="pb-4">
-          <img src="~/public/images/3.jpg" alt="Tecnología"
+          <img src="~/public/images/9.jpg" alt="Tecnología"
             class="w-full object-cover border-4 border-white rounded-lg" />
         </div>
         <div class="bg-white p-2 rounded-lg">
