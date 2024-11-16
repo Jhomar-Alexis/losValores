@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div>
         <span class="text-gray-500"> • </span>
         <span ref="typingText" class="text-gray-500" />
@@ -33,4 +33,4 @@ const typeText = async () => {
 onMounted(() => {
     typeText();
 });
-</script>
+</script> -->

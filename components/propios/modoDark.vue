@@ -1,5 +1,5 @@
-<template>
-    <!-- alternar modo oscuro -->
+<!-- <template>
+   
     <div>
         <Button ref="btn" size="icon" variant="outline" class="rounded-full w-10 h-10 p-1" @click="toggleColorMode">
             <icon class="w-9 h-9" :name="iconName" />
@@ -11,7 +11,7 @@
 const colorMode = useColorMode()
 import Button from '~/components/ui/button/Button.vue';
 const btn = ref(null)
-const iconName = ref('')
+const iconName = ref('') -->
 
 // const toggleColorMode = () => {
 //     if (colorMode.value === 'light') {

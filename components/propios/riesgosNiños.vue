@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="flex flex-col items-center py-10">
         <h1 class="text-black text-2xl md:text-4xl font-[900] mb-10 text-center">
             Practicas para evitar riesgos de  <br> las TIC en niños menores de edad
@@ -53,4 +53,4 @@
             </div>
         </div>
     </div>
-</template>
+</template> -->

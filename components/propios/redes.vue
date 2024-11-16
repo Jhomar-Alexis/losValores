@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <a v-for="link in links" :key="link" :href="link.link" target="_blank" :class="link.class"
         class="sm:w-11 sm:h-11 xl:w-14 xl:h-14 flex justify-center items-center animate-bounce hover:scale-110 
     hover:border-0 hover:shadow-md hover:text-white rounded-full border-2 hover:shadow-black bg-transparent">
@@ -34,4 +34,4 @@ const links = [
         class: 'hover:bg-[#61c3ff] text-[#61c3ff] border-[#61c3ff] p-1 shadow-[0_4px_8px_0]'
     },
 ]
-</script>
+</script> -->
